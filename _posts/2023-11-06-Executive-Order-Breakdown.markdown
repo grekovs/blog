@@ -8,4 +8,3 @@ categories: AI Regulation
 ### Example header
 
 This is an example text. 
-
