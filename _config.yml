@@ -29,7 +29,8 @@ twitter_username: grekov
 
 
 # Build settings
-theme: minima
+#Made it a regular theme 
+#theme: minima
 plugins:
   - jekyll-feed
 
