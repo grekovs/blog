@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Sergey Grekov, business lawyer for tech startups, creators and solopreneurs. 
+title: The Future is Automation Blog
 email: grekovsergey@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
  Sergey Grekov is a business lawyer based in London (UK). 
