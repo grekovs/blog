@@ -28,7 +28,8 @@ baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "http://grekov.co.uk" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username : sergeygrekov
 
-
+# I have added main page
+mainpage: http://grekov.co.uk 
 #I am adding myself as an author here by default.
 author: Sergey Grekov 
 
