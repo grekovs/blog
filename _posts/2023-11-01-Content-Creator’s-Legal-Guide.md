@@ -28,7 +28,7 @@ As a sole trader or proprietor, you'll need to register once your earnings reach
 
 Let's discuss copyright - your right as a creator. Simply put, copyright is your legal claim over the intellectual property you create, be it in the form of text, music, videos, or other media.
 
-==So, what does copyright actually protect? It's all about originality. Your work must be independently created and be creative. However, it doesn’t extend to everything. Copyright does not cover ideas, systems, methods, or discoveries. Also, things like single words, brief phrases, or simple shapes don't fall under its protection. Interestingly, works created by AI currently don't qualify for copyright either but this is a rapidly evolving space.
+So, what does copyright actually protect? It's all about originality. Your work must be independently created and be creative. However, it doesn’t extend to everything. Copyright does not cover ideas, systems, methods, or discoveries. Also, things like single words, brief phrases, or simple shapes don't fall under its protection. Interestingly, works created by AI currently don't qualify for copyright either but this is a rapidly evolving space.
 
 To use work protected under copyright one needs a licence which involves creating a document that sets out the terms for how others can use your content. It specifies what's allowed and what's not, essentially the rules of engagement for sharing your creative work.
 
